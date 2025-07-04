@@ -27,7 +27,7 @@ heart_risk_project/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/heart_risk_project.git
+   git clone https://github.com/Tantamel/heart_risk_project.git
    cd heart_risk_project
 (Для изоляции зависимостей можно создать виртуальное окружение):
 
