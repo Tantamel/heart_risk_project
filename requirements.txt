@@ -1,0 +1,7 @@
+pandas
+numpy
+catboost
+fastapi
+uvicorn[standard]
+python-multipart
+requests
